@@ -1,0 +1,27 @@
+# Core
+pandas
+numpy
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Visualization
+matplotlib
+seaborn
+plotly
+nbformat>=4.2.0
+
+# Explainability
+shap
+
+# Web Dashboard
+streamlit
+
+# Data storage
+pyarrow
+
+# Utilities
+joblib
